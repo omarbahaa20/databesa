@@ -1,7 +1,0 @@
-2022-03-01T18:39:51.813840Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
-2022-03-01T18:39:51.813883Z 0 [System] [MY-013169] [Server] c:\wamp64\bin\mysql\mysql8.0.27\bin\mysqld.exe (mysqld 8.0.27) initializing of server in progress as process 14392
-2022-03-01T18:39:51.925957Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
-2022-03-01T18:40:01.120461Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
-2022-03-01T18:40:17.768082Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
-2022-03-01T18:40:17.769631Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
-2022-03-01T18:40:17.949899Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
